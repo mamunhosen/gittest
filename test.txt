@@ -1,3 +1,2 @@
 add a text by user1
-add a text by user
 add second line by user 2
